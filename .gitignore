@@ -1,0 +1,17 @@
+#  generic
+*.ipynb_checkpoints/
+*.swp
+*todo.md
+*__pycache__
+*.log
+.python-version
+
+dist* 
+build*
+*.egg*
+
+#  project specific
+*.lp
+
+data
+*logs*
